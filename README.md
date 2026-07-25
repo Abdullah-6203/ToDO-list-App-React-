@@ -17,14 +17,6 @@ A clean and responsive To-Do List application built with **React**, **Tailwind C
 - **Tailwind CSS** – Utility-first styling
 - **React Icons** – Icon library for UI elements
 
-## 📸 Screenshots
-
-> Add screenshots or a GIF of your app here
-
-```
-[screenshot placeholder]
-```
-
 ## 📦 Installation & Setup
 
 1. Clone the repository
@@ -65,8 +57,6 @@ todo-list-app/
 ├── package.json
 └── README.md
 ```
-
-> Update this structure to match your actual folder layout
 
 ## 🧠 What I Learned
 
