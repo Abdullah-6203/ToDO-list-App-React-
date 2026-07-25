@@ -1,16 +1,85 @@
-# React + Vite
+# 📝 ToDo List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and responsive To-Do List application built with **React**, **Tailwind CSS**, and **React Icons**. Add, complete, and delete tasks with a smooth and minimal UI.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- ➕ Add new tasks
+- ✅ Mark tasks as complete/incomplete
+- 🗑️ Delete tasks
+- 💾 Persist tasks using local storage
+- 📱 Fully responsive design
+- 🎨 Clean UI with icon-based actions
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **React** – Component-based UI
+- **Tailwind CSS** – Utility-first styling
+- **React Icons** – Icon library for UI elements
 
-## Expanding the ESLint configuration
+## 📸 Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+> Add screenshots or a GIF of your app here
+
+```
+[screenshot placeholder]
+```
+
+## 📦 Installation & Setup
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/your-username/todo-list-app.git
+   ```
+
+2. Navigate to the project directory
+   ```bash
+   cd todo-list-app
+   ```
+
+3. Install dependencies
+   ```bash
+   npm install
+   ```
+
+4. Start the development server
+   ```bash
+   npm run dev
+   ```
+
+5. Open [http://localhost:5173](http://localhost:5173) (or the port shown in your terminal) in your browser
+
+## 📁 Project Structure
+
+```
+todo-list-app/
+├── src/
+│   ├── components/
+│   │   └── Navbar.jsx
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│   └── App.css
+├── public/
+├── node_modules/
+├── package.json
+└── README.md
+```
+
+> Update this structure to match your actual folder layout
+
+## 🧠 What I Learned
+
+- Managing component state with `useState`
+- Handling conditional rendering for task completion
+- Styling efficiently using Tailwind's utility classes
+- Integrating icon libraries into React components
+
+## 👤 Author
+
+**Syed Abdullah**
+- GitHub: [@Abdullah-6203](https://github.com/Abdullah-6203)
+
+---
+
+⭐ If you found this project useful, consider giving it a star!
